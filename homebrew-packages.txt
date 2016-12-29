@@ -14,11 +14,13 @@ gradle
 homebrew/dupes/grep
 mutt
 mysql
+homebrew/dupes/ncurses
 neovim/neovim/neovim
 node
 pandoc
 perl
 homebrew/php/php70
+pygobject
 python
 python3
 reattach-to-user-namespace
