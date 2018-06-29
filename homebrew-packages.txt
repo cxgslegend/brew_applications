@@ -24,6 +24,7 @@ mysql
 ncurses
 rogual/neovim-dot-app/neovim-dot-app
 node
+openssl@1.1
 pandoc
 homebrew/php/php70
 pygobject
@@ -31,6 +32,7 @@ reattach-to-user-namespace
 scheme48
 scons
 shared-mime-info
+sphinx-doc
 the_silver_searcher
 tmux
 trash
